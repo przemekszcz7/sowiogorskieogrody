@@ -1,0 +1,6 @@
+{
+  "name": "Ogrody Sowiogórskie – Projektowanie i Pielęgnacja Ogrodów · Bielawa",
+  "description": "Ogrody Sowiogórskie — kompleksowe prace ziemne i ogrodnicze w Bielawie: projektowanie ogrodów, trawniki, nawadnianie, pielęgnacja zieleni. Bezpłatna wycena. Tel: 510 785 888",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
